@@ -1,0 +1,11 @@
+GET http://localhost:5000/produtos
+
+###
+
+POST http://localhost:5000/produto
+
+
+###
+
+GET http://localhost:5000/produto/a9a79f72-4eee-43d3-ae83-fe68a60dbe8b
+
